@@ -5,6 +5,7 @@ A hardware ID spoofer designed to bypass Roblox's Hyperion alt detection system.
 ## ⚠️ Disclaimer
 
 This software is provided for educational purposes only. Using this software may violate Roblox's Terms of Service and could result in account bans or other penalties. Use at your own risk.
+And Also i did **not** made this and i am not trying to claim any credit
 
 ## Purpose
 
